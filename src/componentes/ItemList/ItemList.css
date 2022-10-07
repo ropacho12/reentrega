@@ -1,0 +1,16 @@
+.Ropa-List{
+  
+   
+   
+    width: 50px;
+    height: 100px;
+    padding: auto ;
+    margin:32px auto ;
+    display: grid;
+    grid-template-columns:auto auto auto;
+    justify-content: center;
+}
+   
+    
+
+   

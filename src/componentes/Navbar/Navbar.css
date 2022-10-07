@@ -1,0 +1,24 @@
+.Title{
+background-color: rgb(2, 5, 22);
+padding: 16px;
+display: flex;
+justify-content:space-around;
+align-items:center;
+color:white;
+
+ 
+
+
+}
+.Title-G{color:white ;}
+
+.botones{
+    color: gold;
+    padding: 10px;
+       
+}
+.cartimg{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
